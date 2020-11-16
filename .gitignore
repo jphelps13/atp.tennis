@@ -1,0 +1,9 @@
+inst/doc
+*.Rproj.user
+*.csv
+*.xlsx
+*.xls
+*.png
+*.rds
+.Rproj.user
+vault/
